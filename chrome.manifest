@@ -1,0 +1,5 @@
+component {83097c30-a933-11e3-a5e2-0800200c9a66} components/jsTest2Protocol.js
+contract @mozilla.org/chat/jstest2;1 {83097c30-a933-11e3-a5e2-0800200c9a66}
+category im-protocol-plugin prpl-jstest2 @mozilla.org/chat/jstest2;1
+
+skin prpl-jstest2     classic/1.0 chrome/skin/
