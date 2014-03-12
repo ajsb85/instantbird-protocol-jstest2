@@ -5,12 +5,20 @@
 		<em:unpack>true</em:unpack>
 		<em:name>jsTest2 Protocol</em:name>
 		<em:version>0.1</em:version>
-		<em:description>Assists to setup a chat account for javascript test.</em:description>
 		<em:creator>Alexander Salas</em:creator>
 		<em:translator>Fatma Youssef</em:translator>
 		<em:homepageURL>http://alexandersalas.name/</em:homepageURL>
 		<em:iconURL>chrome://prpl-jstest2/skin/icon48.png</em:iconURL>
 		<em:icon64URL>chrome://prpl-jstest2/skin/icon64.png</em:icon64URL>
+		<em:localized>
+			<Description>
+				<em:locale>en-US</em:locale>
+				<em:name>jsTest2 Protocol</em:name>
+				<em:creator>Alexander Salas</em:creator>
+				<em:translator>Fatma Youssef</em:translator>
+				<em:description>Javascript test for assists to setup a chat account.</em:description>
+			</Description>
+		</em:localized>
 		<em:targetApplication>
 			<Description>
 				<em:id>{33cb9019-c295-46dd-be21-8c4936574bee}</em:id>
